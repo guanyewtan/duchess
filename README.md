@@ -1,8 +1,10 @@
 # duchess
 Group CS2113T-F14-1 Duke Repository
-Testing 123
+
 Project Scope: Money managing app
+
 Target User Group: University Students
+
 Proposed Features:
 - user can key in expenditure and budget for the month
 - user can edit expenditure or budget anytime
